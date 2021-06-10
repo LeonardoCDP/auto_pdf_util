@@ -1,0 +1,11 @@
+.idea
+.auto
+carimbos/carimbo01.png
+carimbos/carimbo02.png
+carimbos/carimbo03.png
+carimbos/carimbo04.png
+pdforigen/FOTOS.pdf
+pdfsaida/*.pdf
+*.sqlite3
+*pyc
+__pychache__
