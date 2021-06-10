@@ -12,4 +12,5 @@ arquivo PDF com várias páginas e realizar o desmembramento da cada página e c
 nome = f'default{c}' -> remover esta linha
 
 É possível fazer o sistema pegar um texto específico dentro de cada página no arquivo e utilizar para dar nome  aos documentos finalizados.
+
 nome = texto.replace('Data', ' ').split()[5] -> esta linha deve ser configurada para o sistema fazer o texto desejado dentro presente na página.
